@@ -1,4 +1,4 @@
 import am
-am.aorovel()
+am.aprovel()
 import am64
 am64.aprovel()
